@@ -1,0 +1,7 @@
+@Aspire.ServiceBusMessaging_HostAddress = http://localhost:5288
+
+POST {{Aspire.ServiceBusMessaging_HostAddress}}/notify
+
+"Hello World"
+
+###

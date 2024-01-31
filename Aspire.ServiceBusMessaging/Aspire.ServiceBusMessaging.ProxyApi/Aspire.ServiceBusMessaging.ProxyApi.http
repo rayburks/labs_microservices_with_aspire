@@ -1,0 +1,6 @@
+@Aspire.ServiceBusMessaging.ProxyApi_HostAddress = http://localhost:5263
+
+GET {{Aspire.ServiceBusMessaging.ProxyApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
